@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:07:14.316457
+#+TITLE: 洞玄靈寶左玄論
+#+PROPERTY: DZID  DZ1136
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，24—920 四卷 太平部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
